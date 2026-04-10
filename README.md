@@ -15,6 +15,7 @@ Classe Projeto: É o coração do sistema. Ela guarda o status, os prazos e, o m
 Classe Equipe: Funciona como uma "ponte". Ela agrupa vários usuários para que eles possam ser movidos juntos para dentro de um projeto.
 
 Classe Tarefa: Representa o nível operacional, ou seja, o que exatamente precisa ser feito dentro de cada projeto.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 3. O que o Relatório faz (Lógica do Código)
 
